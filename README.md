@@ -1,7 +1,6 @@
 # ProyectoEjemplo
-Mi repositorio en GitHub
-
+Arreglo del Issue
 
 Author: Jorge Alonso Cruz Vera
 
-Texto muy fresco en realidad
+Se arreglo el issue
