@@ -6,6 +6,6 @@ Author: Jorge Alonso Cruz Vera
 
 Texto muy fresco en realidad
 
-Des1: Cambio yo
+Des2: Estoy yo de nuevo
 
-Ahora hare un pull request
+Ahora hare un pull request como des2
